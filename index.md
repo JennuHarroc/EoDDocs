@@ -1,7 +1,7 @@
 KOA EOD
 -------  
 
-Select language / Виберіть мову  
+Select language / Виберіть мову /  Selectionner une langue  
 
 - [English](https://github.com/JennuHarroc/EoDDocs/blob/main/koa-en/DocList.md)
 
