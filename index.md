@@ -7,4 +7,4 @@ Select language / Виберіть мову /  Selectionner une langue
 
 - [українська](https://github.com/JennuHarroc/EoDDocs/blob/main/koa-uk/DocList.md)
 
-- [Francais](https://github.com/JennuHarroc/EoDDocs/blob/main/koa-fr/EODAlliancePackages.md)
+- [Francais](https://github.com/JennuHarroc/EoDDocs/blob/main/koa-fr/DocList.md)
